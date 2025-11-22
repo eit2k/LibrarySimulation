@@ -99,7 +99,7 @@ public class Member {
         System.out.println("Session statistics reset.");
     }
 
-    // Getters
+    
     public int getId() {
         return id;
     }
@@ -113,3 +113,4 @@ public class Member {
     }
 
 }// edit by Saud
+
