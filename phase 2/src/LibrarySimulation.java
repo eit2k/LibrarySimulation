@@ -51,7 +51,7 @@ public class LibrarySimulation {
                  System.out.println("6. Back to Main Menu");
                  System.out.print("Enter your choice: ");
 
-                 int opt = input.nextInt();
+                 int opt = input.nextInt(); //saud
 
                  switch (opt) {
                      case 1:
@@ -149,4 +149,5 @@ public class LibrarySimulation {
      
      input.close();
  }
+
 }
