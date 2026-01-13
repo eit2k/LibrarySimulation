@@ -1,7 +1,7 @@
-//Members of the group
-//name: saud Alharbi    id:446103576
-//name: Omar Almanea    id:446104590
-//name: rakan aldlal    id:446107561
+//Members of the group 
+//name: saud Alharbi     id:446103576
+//name: Omar Almanea     id:446104590
+//name: rakan aldlal     id:446107561
 
 import java.util.*;
 
